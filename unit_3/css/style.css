@@ -6,7 +6,9 @@ body {text-align: center;
 }
 #slogan {font-style: italic;}
 
-#blurb {font-style: italic;}
+#blurb {font-family: Times, serif;
+        font-style: italic;
+}
 
 
 
