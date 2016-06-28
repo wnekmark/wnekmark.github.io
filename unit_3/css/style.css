@@ -5,4 +5,8 @@ body {text-align: center;
 	font-family: "Lucida Grande", sans-serif;
 }
 
+ul {text-align: center;
+    list-style-type: none;
+}
+
 #slogan {font-style: italic;}
