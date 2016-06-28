@@ -3,21 +3,14 @@ body {text-align: center;
 	background-color: #b8c0ff;
 	color: white;
 }
-	
-h2 {font-family: Times, serif;}
 
-#slogan {font-family: "Lucida Grande";
-         font-style: italic;
+#slogan {font-style: italic;
 }
 
-#blurb {font-family: "Lucinda Grande", sans-serif;
-	    font-size: 18px;
+#blurb {font-size: 18px;
 }
 
 ul {text-align: center;
     list-style-type: none;
 }
 
-#signoff {font-family: "Lucida Grande", sans-serif;
-
-}
