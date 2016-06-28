@@ -4,6 +4,7 @@ body {text-align: center;
 	color: white;
 	font-family: "Lucida Grande", sans-serif;
 }
+#blurb {font-style: italic;}
 
 ul {text-align: center;
     list-style-type: none;
