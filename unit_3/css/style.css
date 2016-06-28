@@ -4,12 +4,12 @@ body {text-align: center;
 	color: white;
 	font-family: "Lucida Grande", sans-serif;
 }
-#blurb {font-style: italic;}
+#blurb #slogan {font-style: italic;}
 
-h2 {font-variant: uppercase;}
+
 
 ul {text-align: center;
     list-style-type: none;
 }
 
-#slogan {font-style: italic;}
+
