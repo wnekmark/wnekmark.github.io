@@ -2,15 +2,17 @@ body {text-align: center;
 	 
 	background-color: #b8c0ff;
 	color: white;
-	font-family: "Lucida Grande", sans-serif;
 }
-#slogan {font-style: italic;}
+	
+h2 {font-family: "Lucida Grande", sans-serif;}
+
+#slogan {font-family: "Lucida Grande";
+         font-style: italic;
+}
 
 #blurb {font-family: Times, serif;
         font-style: italic;
 }
-
-
 
 ul {text-align: center;
     list-style-type: none;
