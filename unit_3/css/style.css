@@ -6,6 +6,8 @@ body {text-align: center;
 }
 #blurb {font-style: italic;}
 
+h2 {font-variant: uppercase;}
+
 ul {text-align: center;
     list-style-type: none;
 }
