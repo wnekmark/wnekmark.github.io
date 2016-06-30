@@ -7,8 +7,11 @@ body {text-align: center;
 #slogan {font-style: italic;
 }
 
-#blurb #signoff  {font-size: 16px;
+#blurb  {font-size: 16px;
 	    font-family: Palatino, serif;
+}
+
+#signoff {font-family: Palatino, serif;
 }
 
 ul      {text-align: center;
