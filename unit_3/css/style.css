@@ -2,10 +2,11 @@ body {text-align: center;
 	 
 	background-color: #b8c0ff;
 	color: white;
-	font-family: "Lucida Grande", sans-serif;
+	font-family: "Lucida Grande", sans-serif
+	font-style: uppercase;
 }
 
-title {font-style: uppercase;}
+
 
 #slogan {font-style: italic;
 }
