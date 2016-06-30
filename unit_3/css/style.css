@@ -8,10 +8,7 @@ body {text-align: center;
 }
 
 #blurb  {font-size: 16px;
-	    font-family: Palatino, serif;
-}
-
-#signoff {font-family: Palatino, serif;
+	     font-family: "Palatino", serif;
 }
 
 ul      {text-align: center;
