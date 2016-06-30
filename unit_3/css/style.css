@@ -1,19 +1,16 @@
 body {text-align: center;
-	 
 	  background-color: #b8c0ff;
 	  color: white;
 	  font-family: "Lucida Grande", sans-serif;
-
 }
 
 #slogan {font-style: italic;
 }
 
-#blurb {font-size: 16px;
+#blurb  {font-size: 16px;
 	    font-family: Palatino, serif;
 }
 
-ul {text-align: center;
-    list-style-type: none;
+ul      {text-align: center;
 }
 
