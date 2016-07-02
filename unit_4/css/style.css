@@ -13,13 +13,10 @@ h1   {font-size: 2.5em;
 h2   {font-style: italic;
 }
 
+div  {color: cfe8d0;}
+
 p    {font-family: "astoria light", sans-serif;
 	  font-size: 1em;
 }
 
-span {color: CFE8DO;
-}
-
-ul   {text-align: center;
-}
 
