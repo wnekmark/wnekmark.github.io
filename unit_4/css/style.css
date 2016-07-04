@@ -6,23 +6,25 @@ body
 	 padding: 1em;
 }
 
-h1   {font-size: 2.5em;
+h1   {backrgound-color: #F0C7FF;
+	  font-size: 2.5em;
 	  line-height: 1em;
 	  text-transform: uppercase;
 
 }
 
-h2   {font-style: italic;
+h2   {background-color: #F0C7FF;
+	  font-style: italic;
 }
 
 p    {background-color: #F0C7FF;
 	  font-family: "astoria light", sans-serif;
-	  font-size: o.5em;
+	  font-size: 0.5em;
 }
 
 a    {color: #222222;
 	  text-decoration: none;
-	  margin-right: 20px;
+	  margin-right: 2em;
 }
 
 
