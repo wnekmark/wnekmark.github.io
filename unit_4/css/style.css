@@ -1,5 +1,5 @@
 body  
-    {background: #d1a7eb;
+    {background-color: #d1a7eb;
      text-align: center; 
 	 color: #53663d;
 	 font-family: "open sans", sans-serif;
@@ -14,7 +14,7 @@ h1   {font-size: 2.5em;
 h2   {font-style: italic;
 }
 
-p    {background: F0C7FF;
+p    {background-color: F0C7FF;
 	  font-family: "astoria light", sans-serif;
 	  font-size: 1em;
 }
