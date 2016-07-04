@@ -1,4 +1,6 @@
-body  
+    header {line-height: 2.5em;
+}
+	body  
     {background-color: #d1a7eb;
      text-align: center; 
 	 color: #53663d;
