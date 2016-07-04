@@ -1,6 +1,8 @@
+html {background-image: "flowers.jpg";
+}
+
 body  
-    {background-color: #D1A7E8;
-     text-align: center; 
+    {text-align: center; 
 	 color: #53663d;
 	 font-family: "open sans", sans-serif;
 	 line-height: 1.5em;
