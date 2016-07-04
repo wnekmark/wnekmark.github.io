@@ -23,3 +23,8 @@ a    {color: #222222;
 	  margin-right: 20px;
 }
 
+#wrapper {background-color: F0C7FF;
+          width: 960px;
+          margin: auto;
+}
+
