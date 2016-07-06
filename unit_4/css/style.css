@@ -10,6 +10,10 @@ h1   {background-color: #F0C7FF;
 	  line-height: 1em;
 }
 
+h4 {font-family: "astoria extra light", sans-serif;
+    font-size: .8em;
+}
+
 p    {background-color: #F0C7FF;
 	  font-family: "astoria light", sans-serif;
 	  font-size: 1em;
