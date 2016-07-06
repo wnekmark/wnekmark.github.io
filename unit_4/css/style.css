@@ -31,6 +31,8 @@ span {font-family: "Apple Chancery", serif;
 .img-circle {border-radius: 50%;
 }
 
+nav {padding-top: 2em;}
+
 footer {padding-bottom: 2em;
 	    padding-top: 2em;
 }
