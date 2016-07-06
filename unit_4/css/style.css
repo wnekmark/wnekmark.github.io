@@ -25,6 +25,9 @@ span {font-family: "Apple Chancery", serif;
       text-transform: lowercase;
 }
 
+.img-circle {border-radius: 50%;
+}
+
 
 
 
