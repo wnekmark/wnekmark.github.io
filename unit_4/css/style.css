@@ -21,7 +21,9 @@ a    {color: #222222;
 	  margin-right: 2em;
 }
 
-span {font-family: "Apple Chancery"}
+span {font-family: "Apple Chancery", serif;
+      text-transform: lowercase;
+}
 
 
 
