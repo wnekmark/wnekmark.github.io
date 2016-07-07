@@ -1,11 +1,12 @@
+html
+    {background:url('flowers.jpg') no-repeat center center;
+     min-height:100%;
+     background-size:cover;
+}
+
 body  
-    {body#background
-     background: url('img/flowers.jpg') no-repeat 50% 50% fixed; 
-     background-size: cover;
-     -moz-background-size: cover;
-     -o-background-size: cover;
-     -webkit-background-size: cover;
-     text-align: cente     
+    {min-height: 100%;
+     text-align: center;     
      font-family: "open sans", sans-serif;
 }
 
@@ -40,5 +41,7 @@ footer {padding-bottom: 2em;
 	    padding-top: 2em;
 }
 
-
+#elem {background:url('flowers.jpg') center center no-repeat;
+       background-size:100px 150px;
+}
 
