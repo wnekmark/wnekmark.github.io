@@ -1,0 +1,42 @@
+body  
+    {background: url("../images/flowers.jpg") no-repeat;
+    background-size: cover;
+     text-align: center;     
+     font-family: "open sans", sans-serif;
+}
+
+header {background-color: #F0C7FF;
+}
+
+h1   {font-size: 2.5em;
+	  margin: 0;
+}
+
+h4 {font-family: "astoria extra light", sans-serif;
+    font-size: 1em;
+}
+
+p    {background-color: #F0C7FF;
+	  font-family: "astoria light", sans-serif;
+	  font-size: 1em;
+}
+
+a    {color: #222222;
+	  text-decoration: none;
+}
+
+.img-circle {border-radius: 50%;
+}
+
+nav {text-align: left;
+	padding-top: 1em;
+}
+
+footer {padding-bottom: 2em;
+	    padding-top: 2em;
+}
+
+
+
+
+
