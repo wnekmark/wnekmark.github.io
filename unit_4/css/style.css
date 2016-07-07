@@ -1,8 +1,12 @@
 body  
-    {background-color: #d1a7eb;
-     text-align: center; 
-	 color: #53663d;
-	 font-family: "open sans", sans-serif;
+    {body#background
+     background: url('img/flowers.jpg') no-repeat 50% 50% fixed; 
+     background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     -webkit-background-size: cover;
+     text-align: cente     
+     font-family: "open sans", sans-serif;
 }
 
 h1   {background-color: #F0C7FF;
