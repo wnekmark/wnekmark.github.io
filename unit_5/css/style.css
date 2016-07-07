@@ -1,6 +1,6 @@
 body  
     {background: url("../images/flowers.jpg") no-repeat;
-    background-size: cover;
+     background-size: cover;
      text-align: center;     
      font-family: "open sans", sans-serif;
 }
@@ -8,34 +8,40 @@ body
 header {background-color: #F0C7FF;
 }
 
-h1   {font-size: 2.5em;
+h1   {font-size: 2em;
 	  margin: 0;
 }
 
-h4 {font-family: "astoria extra light", sans-serif;
-    font-size: 1em;
+h4   {background-color: #F0C7FF;
+	  font-family: "Cochin", serif;
+      font-size: .75em;
+      margin: 0 40em 0 40em;
 }
 
 p    {background-color: #F0C7FF;
-	  font-family: "astoria light", sans-serif;
+	  font-family: "Adobe Caslon Pro", serif;
 	  font-size: 1em;
 }
 
-a    {color: #222222;
+a    {color: #256E22;
 	  text-decoration: none;
 }
 
 .img-circle {border-radius: 50%;
+	         margin-top: 2.5em;
+	         margin-bottom: 0;
 }
 
 nav {text-align: left;
-	padding-top: 1em;
+	 margin-left: 2em;
+	 padding-bottom: 1em;
+	 word-spacing: .5em;
 }
 
-footer {padding-bottom: 2em;
-	    padding-top: 2em;
+div {background: #F0C7FF;
+	 margin-top: 3em;
+	 padding: .1em;
 }
-
 
 
 
