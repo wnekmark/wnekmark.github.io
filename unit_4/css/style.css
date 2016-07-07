@@ -1,11 +1,6 @@
-html
-    {background: "images/flowers.jpg") no-repeat center center;
-     min-height:100%;
-     background-size:cover;
-}
 
 body  
-    {min-height: 100%;
+    {background-color: E567E2;
      text-align: center;     
      font-family: "open sans", sans-serif;
 }
@@ -31,13 +26,12 @@ a    {color: #222222;
 .img-circle {border-radius: 50%;
 }
 
-nav {padding-top: 2em;}
+nav {padding-top: 2em;
+}
 
 footer {padding-bottom: 2em;
 	    padding-top: 2em;
 }
 
-#elem {background:url("images/flowers.jpg") center center no-repeat;
-       background-size:100px 150px;
-}
+
 
