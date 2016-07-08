@@ -1,5 +1,5 @@
 body  
-    {background: url("../images/flowers.jpg") no-repeat;
+    {background: url("../images/cindycastle.jpg");
      background-size: cover;
      text-align: center;     
      font-family: "open sans", sans-serif;
@@ -39,7 +39,7 @@ nav {text-align: left;
 }
 
 div {background: #F0C7FF;
-	 margin-top: 3em;
+	 margin-top: 9em;
 	 padding: .1em;
 }
 
