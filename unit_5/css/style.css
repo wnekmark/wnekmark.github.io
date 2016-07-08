@@ -27,7 +27,7 @@ a    {color: #256E22;
 	  text-decoration: none;
 }
 
-.img-circle {border-radius: 50%;
+.img-circle {border-radius: 20%;
 	         margin-top: 2.5em;
 	         margin-bottom: 0;
 }
