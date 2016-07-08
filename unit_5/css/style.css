@@ -39,8 +39,9 @@ nav {text-align: left;
 }
 
 div {background: #F0C7FF;
-	 margin-top: 9em;
-	 padding: .1em;
+	      margin-top: 9em;
+	      border: 2em;
+	      padding: .1em;
 }
 
 
