@@ -6,6 +6,16 @@ body {
 }
 
 h1 {
-	background color: #000000;
 	color: #aaaaaa;
+}
+
+a {
+	background-color: #aaaaaa;
+	color: #000000;
+	text-decoration: none;
+	padding: 6px;
+}
+
+a:hover {
+	background-color: #FF530D;
 }
