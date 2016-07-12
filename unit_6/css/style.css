@@ -1,21 +1,52 @@
 body {
-	background: url("../images/dumbell.jpg");
+	background: url("../images/clock.jpg");
 	background-size: cover;
-	text-align: center;
 	font-family: "open sans", sans-serif;
 }
 
 h1 {
+	background-color: #1C1C87;
+	text-align: center;
 	color: #aaaaaa;
+	padding: 10px;
+	margin: auto;
 }
 
-a {
+article {
+	float: left;
+	padding-top: 50px;
+	width: 600px;
+	color: #aaaaaa;
+	text-align: center;
+}
+
+nav {
 	background-color: #aaaaaa;
-	color: #000000;
+	padding: 10px;
+}
+
+a { 
+	color: white;
 	text-decoration: none;
-	padding: 6px;
+	display: block;
+	float: left;
+	padding: 10px;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content:" ";
+	clear: both;
+	height: 0;
+	font-size: zero;
 }
 
 a:hover {
-	background-color: #FF530D;
+	background-color: #ff7900;
 }
+
+
+
+
+
