@@ -1,7 +1,7 @@
 body {
-	background: url("../images/clock.jpg");
+	background: url("../images/darksky.jpg");
 	background-size: cover;
-	font-family: "open sans", sans-serif;
+	font-family: Goudy, serif;
 }
 
 h1 {
@@ -12,10 +12,10 @@ h1 {
 	margin: auto;
 }
 
-article {
-	float: left;
-	padding-top: 50px;
-	width: 600px;
+main {
+	font-size: 20px;
+	padding: 50px;
+	width: 500px;
 	color: #aaaaaa;
 	text-align: center;
 }
@@ -28,18 +28,7 @@ nav {
 a { 
 	color: white;
 	text-decoration: none;
-	display: block;
-	float: left;
 	padding: 10px;
-}
-
-.clearfix:after {
-	visibility: hidden;
-	display: block;
-	content:" ";
-	clear: both;
-	height: 0;
-	font-size: zero;
 }
 
 a:hover {
