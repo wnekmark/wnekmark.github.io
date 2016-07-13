@@ -22,7 +22,7 @@ nav {
 a { 
 	color: white;
 	text-decoration: none;
-	padding: 10px;
+	padding-right: 10px;
 }
 
 a:hover {
@@ -41,7 +41,17 @@ a:hover {
 	padding-right: 13px;
 }
 
-
+#aside {
+	font-size: 20px;
+	line-height: 25px;
+	color: #F0EDE9;
+	width: 400px;
+	margin-top: 20px;
+	margin-left: 750px;
+	border: 1px solid gray;
+	padding-left: 20px;
+	padding-right: 5px;
+}
 
 
 
