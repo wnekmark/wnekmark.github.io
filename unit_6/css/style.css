@@ -1,27 +1,28 @@
 body {
-	background: url("../images/darksky.jpg");
+	background: url("../images/arrows.jpg");
 	background-size: cover;
 	font-family: "Astoria light", sans-serif;
 }
 
 h1 {
-	background-color: #1C1C87;
+	background-color: #00EA00;
 	text-align: center;
 	text-transform: uppercase;
-	color: #aaaaaa;
+	color: black;
 	padding: 10px;
 	margin: auto;
 }
 
 nav {
-	background-color: #aaaaaa;
+	background-color: #636266;
 }
 
 a { 
-	background-color: #aaaaaa;
+	background-color: #636266;
 	color: white;
 	text-decoration: none;
 	display: block;
+	border: 1px solid black;
 	float: left;
 	padding: 15px;
 }
@@ -36,13 +37,14 @@ a {
 }
 
 a:hover {
-	background-color: #FF9408;
+	background-color: #FF7100;
 }
 
 #wrapper  {
 	font-size: 20px;
 	line-height: 25px;
-	color: #F0EDE9;
+	background-color: #FFAA9E;
+	color: black;
 	width: 780px;
 	margin-top: 60px;
 	margin-left: 400px;
@@ -51,10 +53,19 @@ a:hover {
 	padding-right: 13px;
 }
 
+#wrapper:hover {
+	background-color: white;
+}
+
+section:hover {
+	background-color: white;
+}
+
 section {
 	font-size: 20px;
 	line-height: 25px;
-	color: #F0EDE9;
+	background-color: #FFAA9E;
+	color: black;
 	width: 400px;
 	margin-top: 20px;
 	margin-left: 790px;
