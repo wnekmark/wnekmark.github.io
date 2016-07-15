@@ -1,3 +1,9 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
 body {
 	background: url("../images/arrows.jpg");
 	background-size: cover;
@@ -13,11 +19,7 @@ h1 {
 	margin: auto;
 }
 
-nav {
-	background-color: #636266;
-}
-
-a { 
+nav a { 
 	background-color: #636266;
 	color: white;
 	text-decoration: none;
@@ -57,6 +59,19 @@ a:hover {
 	background-color: white;
 }
 
+#address {
+	font-size: 20px;
+	line-height: 25px;
+	background-color: #E8D5DE;
+	color: black;
+	width: 780px;
+	margin-top: 60px;
+	margin-left: 400px;
+	border: 1px solid gray;
+	padding-left: 20px;
+	padding-right: 13px;
+}
+
 section:hover {
 	background-color: white;
 }
@@ -72,6 +87,10 @@ section {
 	border: 1px solid gray;
 	padding-left: 20px;
 	padding-right: 5px;
+}
+
+p {
+	margin: 15px 0;
 }
 
 
