@@ -42,52 +42,42 @@ a:hover {
 	background-color: #FF7100;
 }
 
-#wrapper  {
+#right  {
 	font-size: 20px;
 	line-height: 25px;
 	background-color: #E8D5DE;
 	color: black;
-	width: 780px;
-	margin-top: 60px;
-	margin-left: 400px;
-	border: 1px solid gray;
-	padding-left: 20px;
-	padding-right: 13px;
-}
-
-#wrapper:hover {
-	background-color: white;
-}
-
-#address {
-	font-size: 20px;
-	line-height: 25px;
-	background-color: #E8D5DE;
-	color: black;
-	width: 780px;
-	margin-top: 60px;
-	margin-left: 400px;
-	border: 1px solid gray;
-	padding-left: 20px;
-	padding-right: 13px;
-}
-
-section:hover {
-	background-color: white;
-}
-
-section {
-	font-size: 20px;
-	line-height: 25px;
-	background-color: #E8D5DE;
-	color: black;
+	float: right;
 	width: 400px;
-	margin-top: 20px;
-	margin-left: 790px;
+	margin-top: 150px;
+	margin-right: 250px;
 	border: 1px solid gray;
 	padding-left: 20px;
-	padding-right: 5px;
+	padding-right: 13px;
 }
+
+#right:hover {
+	background-color: white;
+}
+
+#left  {
+	font-size: 20px;
+	line-height: 25px;
+	background-color: #E8D5DE;
+	color: black;
+	float: left;
+	width: 300px;
+	margin-top: 60px;
+	margin-left: 250px;
+	border: 1px solid gray;
+	padding-left: 20px;
+	padding-right: 13px;
+}
+
+#left:hover {
+	background-color: white;
+}
+
 
 p {
 	margin: 15px 0;
