@@ -78,6 +78,26 @@ a:hover {
 	background-color: white;
 }
 
+#address  {
+	font-size: 20px;
+	line-height: 25px;
+	background-color: #E8D5DE;
+	padding-top: 2px;
+	padding-left: 20px;
+	text-decoration: none;
+	color: black;
+	float: left;
+	width: 30%;
+	border: 1px solid gray;
+	margin-top: 80px;
+	margin-left: 220px;
+}
+
+#address:hover  {
+	background-color: #636266;
+	color: white;
+	text-decoration: none;
+}
 
 p {
 	margin: 15px 0;
