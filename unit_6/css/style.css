@@ -44,25 +44,6 @@ a:hover {
 	color: black;
 }
 
-#right  {
-	font-size: 1em;
-	line-height: 1.25em;
-	text-align: center;
-	background-color: #FFCED3;
-	color: #31702F;
-	padding: .1em 1em;
-	float: left;
-	width: 40%;
-	border: .05em solid gray;
-	margin-top: 10em;
-	margin-left: 3em;
-}
-
-#right:hover {
-	background-color: white;
-	color: #636266;
-}
-
 #left  {
 	font-size: 1em;
 	line-height: 1.25em;
@@ -78,6 +59,25 @@ a:hover {
 }
 
 #left:hover {
+	background-color: white;
+	color: #636266;
+}
+
+#right  {
+	font-size: 1em;
+	line-height: 1.25em;
+	text-align: center;
+	background-color: #FFCED3;
+	color: #31702F;
+	padding: .1em 1em;
+	float: left;
+	width: 40%;
+	border: .5px solid gray;
+	margin-top: 8em;
+	margin-left: 2em;
+}
+
+#right:hover  {
 	background-color: white;
 	color: #636266;
 }
