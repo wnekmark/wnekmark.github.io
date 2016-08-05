@@ -10,7 +10,10 @@ body {
 	font-size: 1.2em;
 	font-family: "Astoria light", sans-serif;
 }
-
+#past-work {
+	background: #91eaad;
+	color: rgba(86, 99, 99, 0.88);
+}
 h1 {
 	background-color: #91EAAD;
 	text-align: center;
