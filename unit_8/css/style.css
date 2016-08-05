@@ -16,7 +16,7 @@ h1 {
 	text-align: center;
 	text-transform: uppercase;
 	color: #566363;
-	padding: 1em;
+	padding: .5em;
 	margin: auto;
 	border: .05em solid gray;
 }
@@ -54,7 +54,7 @@ a:hover {
 	float: left;
 	width: 30%;
 	border: .5px solid gray;
-	margin-top: 5em;
+	margin-top: 3em;
 	margin-left: 10em;
 }
 
@@ -73,7 +73,7 @@ a:hover {
 	float: left;
 	width: 40%;
 	border: .5px solid gray;
-	margin-top: 8em;
+	margin-top: 6em;
 	margin-left: 2em;
 }
 
