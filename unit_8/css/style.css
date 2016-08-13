@@ -1,41 +1,8 @@
 body {
 	background: gray;
 	background-size: cover;
-}
+	font: 'Proxima Nova';
 
-section {
-	color: black;
-	font-family: 'Proxima Nova', sans-serif;
-    font-size: 1.2em;
-    margin-left: 15em;
-    margin-top: 4em;
-}
-
-#firstarticle {
-	background: white;
-	background-size: cover;
-	font-size: 1.2em;
-	font-family: 'Proxima Nova', sans-serif;
-	width:40em;
-	margin: auto;
-	padding: 2em;
-}
-
-#past-work {
-	background: #91eaad;
-	color: rgba(86, 99, 99, 0.88);
-}
-
-h1 {
-	background-color: #91EAAD;
-	font-family: 'Open sans', sans-serif;
-	text-align: center;
-	text-transform: uppercase;
-	color: #566363;
-	padding: .5em;
-	margin: auto;
-	border: .05em solid gray;
-}
 
 
 
