@@ -1,21 +1,34 @@
-* {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+body {
+	background: gray;
+	background-size: cover;
 }
 
-body {
-	background: url("../images/arrows.jpg");
+section {
+	color: black;
+	font-family: 'Proxima Nova', sans-serif;
+    font-size: 1.2em;
+    margin-left: 15em;
+    margin-top: 4em;
+}
+
+#firstarticle {
+	background: white;
 	background-size: cover;
 	font-size: 1.2em;
-	font-family: "Astoria light", sans-serif;
+	font-family: 'Proxima Nova', sans-serif;
+	width:40em;
+	margin: auto;
+	padding: 2em;
 }
+
 #past-work {
 	background: #91eaad;
 	color: rgba(86, 99, 99, 0.88);
 }
+
 h1 {
 	background-color: #91EAAD;
+	font-family: 'Open sans', sans-serif;
 	text-align: center;
 	text-transform: uppercase;
 	color: #566363;
@@ -24,93 +37,8 @@ h1 {
 	border: .05em solid gray;
 }
 
-nav a { 
-	background-color: #918E88;
-	color: white;
-	text-decoration: none;
-	display: block;
-	float: left;
-	padding: 1em;
-}
 
-.clearfix:after {
-	visibility: hidden;
-    display:block;
-    content: " ";
-    clear: both;
-    height: 0;
-    font-size: 0;
-}
 
-a:hover {
-	background-color: #FFA854;
-	color: black;
-}
-
-#left  {
-	font-size: 1em;
-	line-height: 1.25em;
-	text-align: center;
-	background-color: #FFCED3;
-	color: #31702F;
-	padding: .1em 1em;
-	float: left;
-	width: 30%;
-	border: .5px solid gray;
-	margin-top: 3em;
-	margin-left: 10em;
-}
-
-#left:hover {
-	background-color: white;
-	color: #636266;
-}
-
-#right  {
-	font-size: 1em;
-	line-height: 1.25em;
-	text-align: center;
-	background-color: #FFCED3;
-	color: #31702F;
-	padding: .1em 1em;
-	float: left;
-	width: 40%;
-	border: .5px solid gray;
-	margin-top: 6em;
-	margin-left: 2em;
-}
-
-#right:hover  {
-	background-color: white;
-	color: #636266;
-}
-
-#address  {
-	font-size: 1em;
-	line-height: 1.25em;
-	background-color: #E8D5DE;
-	padding: .1em 1em;
-	text-decoration: none;
-	color: black;
-	float: left;
-	width: 30%;
-	border: .05em solid gray;
-	margin-top: 2em;
-	margin-left: 25em;
-}
-
-#address:hover  {
-	text-decoration: none;
-}
-
-#address a  {
-	text-decoration:  none;
-	color: black;	
-}
-
-p {
-	margin: .75em 0;
-}
 
 
 
