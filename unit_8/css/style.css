@@ -14,11 +14,10 @@ header {
     text-align: center;
 }
 
-nav {
+a {
 	float: left;
-	text-transform: none;
-	margin-bottom: 4em;
-	margin-left: 2em;
+	padding-bottom: 4em;
+	padding-left: 2em;
 }
 
 
