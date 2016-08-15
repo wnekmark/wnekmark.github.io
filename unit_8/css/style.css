@@ -9,13 +9,16 @@ body {
 }
 
 header {
+	font-family: "Fjalla One", sans-serif;
+	font-size: 2em;
     text-align: center;
-    padding: 1em;
 }
 
 nav a {
 	float: left;
-	text-decoration: none;
+	text-transform: none;
+	padding-bottom: 4em;
+	padding-left: 2em;
 }
 
 
