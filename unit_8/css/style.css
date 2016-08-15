@@ -14,7 +14,7 @@ header {
     text-align: center;
 }
 
-nav a {
+nav {
 	float: left;
 	text-transform: none;
 	margin-bottom: 4em;
