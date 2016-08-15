@@ -3,41 +3,58 @@
 @import url(https://fonts.googleapis.com/css?family=Viga);
 
 body {
-	background-color: #F4F6FB;
+	background: #DAE7FF;
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 }
 
 header {
-	font-family: "Fjalla One", sans-serif;
-	font-size: 1.5em;
-    text-align: center;
-    width: 100%;
+	font-size: 1.4em;
+	text-align: right;
+	margin-right: 15em;
 }
 
 hr {
 	width: 100%;
 }
 
-nav {
-	text-align: left;
+a {
+	font-size: .35em;
+	text-decoration: none;
+	float: left;
+	color: black;
+	padding-left: 2em;
+	margin-top: 1em;
 }
 
-a {
-	text-decoration: none;
-	padding-left: 1em;
-	color: black;
+a:hover {
+	color: red;
 }
 
 #date1 {
 	width: 15em;
-	margin-top: 5em;
+	margin-top: 3em;
 	margin-left: 15em;
 }
 
 #article1 {
+	font-family: "Fjalla One", sans-serif;
 	width: 25em;
 	margin-left: 15em;
+}
+
+#article1:hover {
+	color: #A3661F;
+}
+
+#copy1 {
+	font-size: .75em;
+	width: 55em;
+	margin-left: 20em;
+}
+
+#copy1:hover {
+	color: #A3661F;
 }
 
 img {
