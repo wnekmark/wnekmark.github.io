@@ -17,8 +17,8 @@ header {
 nav a {
 	float: left;
 	text-transform: none;
-	padding-bottom: 4em;
-	padding-left: 2em;
+	margin-bottom: 4em;
+	margin-left: 2em;
 }
 
 
