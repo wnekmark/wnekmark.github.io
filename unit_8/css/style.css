@@ -4,11 +4,13 @@
 
 body {
 	background: #DAE7FF;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Viga', sans-serif;
 	font-size: 16px;
 }
 
-header {
+#topnav {
+	background-size: 60em;
+	background-color: white;
 	font-size: 1.4em;
 	text-align: right;
 	margin-right: 15em;
@@ -45,6 +47,10 @@ a:hover {
 
 #article1:hover {
 	color: #A3661F;
+}
+
+h2 {
+	font-family: 'Century Gothic', sans-serif;
 }
 
 #copy1 {
