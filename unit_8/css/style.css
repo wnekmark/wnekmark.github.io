@@ -3,21 +3,47 @@
 @import url(https://fonts.googleapis.com/css?family=Viga);
 
 body {
-	background-color: #F4FEFB;
+	background-color: #F4F6FB;
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 }
 
 header {
 	font-family: "Fjalla One", sans-serif;
-	font-size: 2em;
+	font-size: 1.5em;
     text-align: center;
+    width: 100%;
+}
+
+hr {
+	width: 100%;
+}
+
+nav {
+	text-align: left;
 }
 
 a {
-	float: left;
-	padding-bottom: 4em;
-	padding-left: 2em;
+	text-decoration: none;
+	padding-left: 1em;
+	color: black;
+}
+
+#date1 {
+	width: 15em;
+	margin-top: 5em;
+	margin-left: 15em;
+}
+
+#article1 {
+	width: 25em;
+	margin-left: 15em;
+}
+
+img {
+    width: 45em;
+	height: 21em;
+	margin-left: 15em;
 }
 
 
