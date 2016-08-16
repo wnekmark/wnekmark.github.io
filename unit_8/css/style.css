@@ -8,7 +8,7 @@
 }
 
 a {
-	font-size: 15px;
+	font-size: 16px;
 	text-decoration: none;
 	float: left;
 	color: black;
@@ -17,145 +17,97 @@ a {
 }
 
 a:hover {
-	color: red;
+	color: white;
+	text-decoration: underline;
 }
 
 header {
 	font-family: 'Fjalla One', sans-serif;
 	font-weight: bold;
 	font-size: 1.5em;
-	background-color: #FBFEFF;
+	background-color: #FF8658;
 	background-size: cover;
 	text-align: center;
 	padding: 1em;
 }
 
-#page3 {
-	background-color: #FDCEFF;
-	background: cover;
+article{
+	padding:50px 20%;
 }
 
-#date3 {
-	font-family: 'Astoria Light', sans-serif;
-	width: 15em;
-	padding-top: 4em;
-	padding-bottom: 1.5em;
-	margin-left: 16em;
-}
-
-#article3 h1 {
+article h1 {
 	font-family: 'Roboto Black', sans-serif;
-	width: 25em;
-	margin-left: 8em;
 	font-size: 2em;
 }
 
-#article3:hover {
-	color: purple;
-}
-
 img {
-	width: 50em;
-	height: 25em;
-	margin-left: 16em;
+	width: 100%;
+	margin: auto;
 }
 
-#copy3 {
+figure{
+	position: relative;
+}
+
+div:hover .overlay{
+	position: absolute;
+	width:100%;
+	height:100%;
+	background-color:#FB1EFF;
+	opacity:.5;
+	top:0;
+	left:0;
+}
+
+.date {
+	font-family: 'Astoria Light', sans-serif;
+	padding-top: 4em;
+	padding-bottom: 1.5em;
+}
+
+.copy, 
+.copy a{
 	font-family: 'Franklin Gothic', serif;
 	font-size: 1.2em;
-	margin-left:13.2em;
-	margin-right: 13.8em;
 	padding-bottom: 3em;
+	text-decoration: none;
 }
 
-#copy3:hover {
-	color: purple;
+#page3 {
+	background-color: #FBFEFF;
+}
+
+#page3 div:hover {
+	color: #FB1EFF;
+}
+
+#page3 .copy:hover {
+	color: #FB1EFF;
 }
 
 #page2 {
-	background-color: #FFFEFF;
-	background: cover;
+	background-color: #FDC4FF;
 }
 
-#date2 {
-	font-family: 'Astoria Light', sans-serif;
-	width: 15em;
-	padding-top: 4em;
-	padding-bottom: 1.5em;
-	margin-left: 16em;
-}
-
-#article2 h1 {
-	font-family: 'Roboto Black', sans-serif;
-	width: 25em;
-	margin-left: 8em;
-	font-size: 2em;
-}
-
-#article2:hover {
+#page2 div:hover {
 	color: #28CC14;
 }
 
-img {
-	width: 50em;
-	height: 25em;
-	margin-left: 16em;
-}
-
-#copy2 {
-	font-family: 'Franklin Gothic', serif;
-	font-size: 1.2em;
-	margin-left:13.2em;
-	margin-right: 13.8em;
-	padding-bottom: 3em;
-}
-
-#copy2:hover {
+#page2 .copy:hover {
 	color: #28CC14;
 }
 
 #page1 {
 	background-color: #96FFA3;
-	background: cover;
 }
 
-#date1 {
-	font-family: 'Astoria Light', sans-serif;
-	width: 15em;
-	padding-top: 4em;
-	padding-bottom: 1.5em;
-	margin-left: 16em;
+#page1 div:hover {
+	color: white;
 }
 
-#article1 {
-	font-family: 'Roboto Black', sans-serif;
-	width: 25em;
-	margin-left: 8em;
-	font-size: 2em;
+#page1 .copy:hover {
+	color: white;
 }
-
-#article1:hover {
-	color: #A3661F;
-}
-
-#copy1 {
-	font-family: 'Franklin Gothic', serif;
-	font-size: 1.2em;
-	margin-left:13.2em;
-	margin-right: 13.8em;
-	padding-bottom: 3em;
-}
-
-#copy1:hover {
-	color: #A3661F;
-}
-
-img {
-    width: 45.5em;
-	height: 21em;
-	margin-left: 16em;
-}
-
 
 
 
