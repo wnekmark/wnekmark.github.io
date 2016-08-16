@@ -30,6 +30,48 @@ header {
 	padding: 1em;
 }
 
+#page3 {
+	background-color: #FDCEFF;
+	background: cover;
+}
+
+#date3 {
+	font-family: 'Astoria Light', sans-serif;
+	width: 15em;
+	padding-top: 4em;
+	padding-bottom: 1.5em;
+	margin-left: 16em;
+}
+
+#article3 h1 {
+	font-family: 'Roboto Black', sans-serif;
+	width: 25em;
+	margin-left: 8em;
+	font-size: 2em;
+}
+
+#article3:hover {
+	color: purple;
+}
+
+img {
+	width: 50em;
+	height: 25em;
+	margin-left: 16em;
+}
+
+#copy3 {
+	font-family: 'Franklin Gothic', serif;
+	font-size: 1.2em;
+	margin-left:13.2em;
+	margin-right: 13.8em;
+	padding-bottom: 3em;
+}
+
+#copy3:hover {
+	color: purple;
+}
+
 #page2 {
 	background-color: #FFFEFF;
 	background: cover;
