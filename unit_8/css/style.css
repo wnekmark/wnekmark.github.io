@@ -2,61 +2,106 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,700italic,700,900,900italic,100,300,400italic,500);
 @import url(https://fonts.googleapis.com/css?family=Viga);
 
-body {
-	background: #DAE7FF;
-	font-family: 'Viga', sans-serif;
-	font-size: 16px;
-}
-
-#topnav {
-	background-size: 60em;
-	background-color: white;
-	font-size: 1.4em;
-	text-align: right;
-	margin-right: 15em;
-}
-
-hr {
-	width: 100%;
+* {
+	padding: 0;
+	margin: 0;
 }
 
 a {
-	font-size: .35em;
+	font-size: 15px;
 	text-decoration: none;
 	float: left;
 	color: black;
-	padding-left: 2em;
 	margin-top: 1em;
+	padding-left: 1em;
 }
 
 a:hover {
 	color: red;
 }
 
-#date1 {
+header {
+	font-family: 'Fjalla One', sans-serif;
+	font-weight: bold;
+	font-size: 1.5em;
+	background-color: #FBFEFF;
+	background-size: cover;
+	text-align: center;
+	padding: 1em;
+}
+
+#page2 {
+	background-color: #FFEEE6;
+	background: cover;
+}
+
+#date2 {
+	font-family: 'Astoria Light', sans-serif;
 	width: 15em;
-	margin-top: 3em;
-	margin-left: 15em;
+	padding-top: 4em;
+	padding-bottom: 1.5em;
+	margin-left: 16em;
+}
+
+#article2 {
+	font-family: 'Fjalla One', sans-serif;
+	font-weight: bold;
+	font-size: 1em;
+	width: 25em;
+	margin-left: 16em;
+}
+
+#article2:hover {
+	color: #28CC14;
+}
+
+img {
+	width: 45.5em;
+	height: 21em;
+	margin-left: 16em;
+}
+
+#copy2 {
+	font-family: 'Astoria Light', sans-serif;
+	font-size: 1.2em;
+	margin-left:13.2em;
+	margin-right: 13.8em;
+	padding-bottom: 3em;
+}
+
+#copy2:hover {
+	color: #28CC14;
+}
+
+#page1 {
+	background-color: #E2EEFF;
+	background: cover;
+}
+
+#date1 {
+	font-family: 'Astoria Light', sans-serif;
+	width: 15em;
+	padding-top: 4em;
+	padding-bottom: 1.5em;
+	margin-left: 16em;
 }
 
 #article1 {
-	font-family: "Fjalla One", sans-serif;
+	font-family: 'Fjalla One', sans-serif;
 	width: 25em;
-	margin-left: 15em;
+	margin-left: 16em;
 }
 
 #article1:hover {
 	color: #A3661F;
 }
 
-h2 {
-	font-family: 'Century Gothic', sans-serif;
-}
-
 #copy1 {
-	font-size: .75em;
-	width: 55em;
-	margin-left: 20em;
+	font-family: 'Astoria Light', sans-serif;
+	font-size: 1.2em;
+	margin-left:13.2em;
+	margin-right: 13.8em;
+	padding-bottom: 3em;
 }
 
 #copy1:hover {
@@ -64,9 +109,9 @@ h2 {
 }
 
 img {
-    width: 45em;
+    width: 45.5em;
 	height: 21em;
-	margin-left: 15em;
+	margin-left: 16em;
 }
 
 
