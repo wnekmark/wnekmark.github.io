@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Fjalla+One);
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,700italic,700,900,900italic,100,300,400italic,500);
+@import 'https://fonts.googleapis.com/css?family=Raleway|Roboto';
 @import url(https://fonts.googleapis.com/css?family=Viga);
 
 * {
@@ -31,7 +31,7 @@ header {
 }
 
 #page2 {
-	background-color: #FFEEE6;
+	background-color: #FFFEFF;
 	background: cover;
 }
 
@@ -43,12 +43,11 @@ header {
 	margin-left: 16em;
 }
 
-#article2 {
-	font-family: 'Fjalla One', sans-serif;
-	font-weight: bold;
-	font-size: 1em;
+#article2 h1 {
+	font-family: 'Roboto Black', sans-serif;
 	width: 25em;
-	margin-left: 16em;
+	margin-left: 8em;
+	font-size: 2em;
 }
 
 #article2:hover {
@@ -56,13 +55,13 @@ header {
 }
 
 img {
-	width: 45.5em;
-	height: 21em;
+	width: 50em;
+	height: 25em;
 	margin-left: 16em;
 }
 
 #copy2 {
-	font-family: 'Astoria Light', sans-serif;
+	font-family: 'Franklin Gothic', serif;
 	font-size: 1.2em;
 	margin-left:13.2em;
 	margin-right: 13.8em;
@@ -74,7 +73,7 @@ img {
 }
 
 #page1 {
-	background-color: #E2EEFF;
+	background-color: #96FFA3;
 	background: cover;
 }
 
@@ -87,9 +86,10 @@ img {
 }
 
 #article1 {
-	font-family: 'Fjalla One', sans-serif;
+	font-family: 'Roboto Black', sans-serif;
 	width: 25em;
-	margin-left: 16em;
+	margin-left: 8em;
+	font-size: 2em;
 }
 
 #article1:hover {
@@ -97,7 +97,7 @@ img {
 }
 
 #copy1 {
-	font-family: 'Astoria Light', sans-serif;
+	font-family: 'Franklin Gothic', serif;
 	font-size: 1.2em;
 	margin-left:13.2em;
 	margin-right: 13.8em;
