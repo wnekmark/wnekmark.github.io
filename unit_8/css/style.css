@@ -32,7 +32,7 @@ header {
 }
 
 article{
-	padding:50px 20%;
+	padding:3em 20%;
 }
 
 article h1 {
@@ -49,7 +49,11 @@ figure{
 	position: relative;
 }
 
-div:hover .overlay {
+hr {
+	width: 100%;
+}
+
+.overlay:hover {
 	position: absolute;
 	width:100%;
 	height:100%;
@@ -75,13 +79,14 @@ div:hover .overlay {
 
 #page3 {
 	background-color: #FBFEFF;
+	background-size: 100%;
 }
 
-#page3 div:hover {
+#page3 h1:hover {
 	color: #FB1EFF;
 }
 
-#page3 .copy:hover {
+#page3 a:hover {
 	color: #FB1EFF;
 }
 
@@ -89,11 +94,11 @@ div:hover .overlay {
 	background-color: #FDC4FF;
 }
 
-#page2 div:hover {
+#page2 h1:hover {
 	color: #28CC14;
 }
 
-#page2 .copy:hover {
+#page2 a:hover {
 	color: #28CC14;
 }
 
@@ -101,13 +106,23 @@ div:hover .overlay {
 	background-color: #96FFA3;
 }
 
-#page1 div:hover {
+#page1 h1:hover {
 	color: white;
 }
 
-#page1 .copy:hover {
+#page1 a:hover {
 	color: white;
 }
 
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+    .copy, .copy a {
+    	font-size: 18px;
+       }
+}
 
+@media only screen and (min-width: 414px) and (max-width: 736px) {
 
+	.copy, .copy a {
+		font-size: 16px;
+	}
+}
