@@ -188,7 +188,6 @@ hr {
 
 .date {
 	font-family: 'Astoria Light', sans-serif;
-	padding-top: 2em;
 	padding-bottom: 1em;
 	margin-right: .01em;
 	margin-left: .01em;
@@ -198,7 +197,7 @@ hr {
 .copy a {
 	font-family: 'Franklin Gothic', serif;
 	font-size: 20px;
-	padding-bottom: 3em;
+	padding-bottom: .5em;
 	text-decoration: none;
 	color: black;
 	margin-right: .01em;
@@ -297,5 +296,10 @@ hr {
 	 .copy, .copy a {
 	 	font-size: 14px;
 	 	width: 98%;
-	 }
+}
+
+     article h1 {
+     	font-size: 1em;
+     }
+
 }
