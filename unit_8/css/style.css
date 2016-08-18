@@ -121,19 +121,19 @@ code {
 *,*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:0;padding:0;}
 html, body { height: 100%; width: 100%; font-family: Helvetica, Arial, sans-serif; }
 
-a {
+/* a {
 	font-size: 16px;
 	text-decoration: none;
 	float: left;
 	color: black;
 	margin-top: 1em;
 	padding-left: 1em;
-}
+} 
 
 a:hover {
 	color: white;
 	text-decoration: underline;
-}
+} */
 
 header {
 	font-family: 'Fjalla One', sans-serif;
@@ -142,7 +142,6 @@ header {
 	background-color: #FF8658;
 	background-size: cover;
 	text-align: center;
-	padding: 1em;
 }
 
 article{
@@ -152,6 +151,7 @@ article{
 article h1 {
 	font-family: 'Roboto Black', sans-serif;
 	font-size: 2em;
+	margin: .01em;
 }
 
 img {
@@ -188,8 +188,10 @@ hr {
 
 .date {
 	font-family: 'Astoria Light', sans-serif;
-	padding-top: 4em;
-	padding-bottom: 1.5em;
+	padding-top: 2em;
+	padding-bottom: 1em;
+	margin-right: .01em;
+	margin-left: .01em;
 }
 
 .copy, 
@@ -198,6 +200,9 @@ hr {
 	font-size: 20px;
 	padding-bottom: 3em;
 	text-decoration: none;
+	color: black;
+	margin-right: .01em;
+	margin-left: .01em;
 }
 
 #page3 {
@@ -286,4 +291,11 @@ hr {
 	.copy, .copy a {
 		font-size: 16px;
 	}
+}
+
+@media only screen and (min-width: 375px) and (max-width: 667px) {
+	 .copy, .copy a {
+	 	font-size: 14px;
+	 	width: 98%;
+	 }
 }
