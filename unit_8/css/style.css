@@ -286,13 +286,16 @@ hr {
 }
 
 @media only screen and (min-width: 414px) and (max-width: 736px) {
-
-	.copy, .copy a {
+    .copy, .copy a {
 		font-size: 16px;
 	}
 }
 
 @media only screen and (min-width: 375px) and (max-width: 667px) {
+	 header {
+	 	font-size: 1em;
+}
+
 	 .copy, .copy a {
 	 	font-size: 14px;
 	 	width: 98%;
@@ -300,6 +303,6 @@ hr {
 
      article h1 {
      	font-size: 1em;
-     }
+}
 
 }
