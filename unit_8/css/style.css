@@ -60,7 +60,7 @@
   z-index: 1;
   
   /* non-critical apperance styles */
-  padding: 4em;
+  /* padding: 4em; */
   background-image: linear-gradient(135deg, rgb(254,255,255) 0%,rgb(221,241,249) 35%,rgb(160,216,239) 100%);
   background-size: 200%;
 }
@@ -74,8 +74,11 @@
 
 label[for="nav-trigger"] {
   /* critical positioning styles */
-  position: fixed;
-  left: 15px; top: 15px;
+  /* position: fixed; */
+  position: absolute;
+  left: 2em; top: 3em; 
+
+
   z-index: 2;
   
   /* non-critical apperance styles */
@@ -140,7 +143,9 @@ header {
 	font-weight: bold;
 	font-size: 20px;
 	background-color: #FF8658;
-	background-size: cover;
+	/* background-size: 100%; */
+	padding-top: 2em;
+	padding-bottom: .5em;
 	text-align: center;
 }
 
