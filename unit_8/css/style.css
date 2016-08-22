@@ -293,6 +293,12 @@ hr {
 	color: red;
 }
 
+.single {
+	font-size: 1.3em;
+	padding-top: 3em;
+
+}
+
 @media only screen and (max-width: 1024px) {
     .copy, .copy a {
     	font-size: 18px;
