@@ -298,8 +298,9 @@ hr {
 } */
 
 .single {
-	font-size: 1.3em;
-	padding-top: 3em;
+	font-size: 1.2em;
+	padding-top: 2.5em;
+    
 }
 
 @media only screen and (max-width: 1024px) {
