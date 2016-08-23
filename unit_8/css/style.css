@@ -122,7 +122,11 @@ code {
 
 /* Micro reset */
 *,*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:0;padding:0;}
-/* html, body { height: 100%; width: 100%; font-family: Helvetica, Arial, sans-serif; */ }
+html, body { 
+	height: 100%; 
+	width: 100%; 
+	font-family: 'Roboto', sans-serif;
+}
 
 /* a {
 	font-size: 16px;
@@ -146,13 +150,13 @@ header {
 	/* background-color: #FF8658;
 	background-size: 100%; */
 	padding-top: 2em;
-	padding-bottom: .5em;
+	padding-bottom: .1em;
 	text-align: left;
 }
 
 article {
 	padding:3em 20%;
-	font-family: 'Astoria Light', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 article h1 {
@@ -202,7 +206,7 @@ hr {
 
 .copy, 
 .copy a {
-	font-family: 'Astoria Light', sans-serif;
+	font-family: 'Open sans', sans-serif;
 	font-size: 20px;
 	padding-bottom: .5em;
 	text-decoration: none;
@@ -356,7 +360,7 @@ hr {
 
 .single {
 	background-color: #F2F1ED;
-	font-family: 'Fjalla+One', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 1.2em;
 	padding: 5% 20%;
 }
