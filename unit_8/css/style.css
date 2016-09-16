@@ -197,7 +197,7 @@ hr {
 	left:0;
 }
 
-/* .date {
+.date {
 	font-family: 'Astoria Light', sans-serif;
 	padding-bottom: 1em;
 	margin-right: .01em;
@@ -222,7 +222,7 @@ hr {
 	font-size: 0;
 	content:' ';
 	clear: both;
-} */
+} 
 
 #page5 {
 	background-color: #E0CE4D;
