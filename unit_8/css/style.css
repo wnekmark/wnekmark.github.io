@@ -191,7 +191,7 @@ hr {
 	position: absolute;
 	width:100%;
 	height:100%;
-	background-color:#5D8DFF;
+	background-color:#FF00FF;
 	opacity:.5;
 	top:0;
 	left:0;
@@ -230,11 +230,11 @@ hr {
 }
 
 #page5 h1:hover {
-	color: #E0CE4D;
+	color: #FF00FF;
 }
 
 #page5 a:hover {
-	color: #E0CE4D;
+	color: #FF00FF;
 }
 
 /* #overlay3 {
