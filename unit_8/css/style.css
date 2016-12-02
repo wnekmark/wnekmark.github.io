@@ -179,7 +179,7 @@ hr {
 }
 
 #overlay5 {
-	position: absolute;
+	/* position: absolute; */
 	width:100%;
 	height:100%;
 	opacity:.5;
@@ -188,7 +188,7 @@ hr {
 }
 
 #overlay5:hover {
-	position: absolute;
+	/* position: absolute; */
 	width:100%;
 	height:100%;
 	background-color:#FF00FF;
