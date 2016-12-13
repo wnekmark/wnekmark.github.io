@@ -178,6 +178,66 @@ hr {
 	width: 100%;
 }
 
+#overlay6 {
+	position: absolute;
+	width:100%;
+	height:100%;
+	opacity:.5;
+	top:0;
+	left:0;
+}
+
+#overlay6:hover {
+	position: absolute;
+	width:100%;
+	height:100%;
+	background-color:#FF00FF;
+	opacity:.5;
+	top:0;
+	left:0;
+}
+
+.date {
+	font-family: 'Astoria Light', sans-serif;
+	padding-bottom: 1em;
+	margin-right: .01em;
+	margin-left: .01em;
+}
+
+.copy, 
+.copy a {
+	font-family: 'Open sans', sans-serif;
+	font-size: 20px;
+	padding-bottom: .5em;
+	text-decoration: none;
+	color: black;
+	margin-right: .01em;
+	margin-left: .01em;
+}
+
+.clearfix:after{
+	display:block;
+	visibility: hidden;
+	height: 0;
+	font-size: 0;
+	content:' ';
+	clear: both;
+} 
+
+#page6 {
+	background-color: #E0CE4D;
+	background-size: 100%;
+}
+
+#page6 h1:hover {
+	color: #FF00FF;
+}
+
+#page6 a:hover {
+	color: #FF00FF;
+}
+
+
 #overlay5 {
 	position: absolute;
 	width:100%;
